@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-11-11 at 16 06 39_00d15bc2](https://github.com/user-attachments/assets/14a84027-31f1-46d3-b330-2c2aad6a4813)# Sequence-Detector
+## Sequence-Detector
 ## Aim
 To design and simulate a sequence detector using both Moore and Mealy state machine models in Verilog HDL, and verify their functionality through a testbench using the Vivado 2023.1 simulation environment. The objective is to detect a specific sequence of bits (e.g., 1011) and compare the Moore and Mealy designs.
 
